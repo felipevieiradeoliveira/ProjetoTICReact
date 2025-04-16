@@ -1,0 +1,8 @@
+.Footer {
+    background-color: green;
+}
+
+.Footer h1 span {
+    color:var(--cinza);
+    width: 100%;
+}
